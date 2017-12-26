@@ -3,7 +3,6 @@ A little tool for handling huge text files. Basically writing a clone of textmec
 
 <p align="center"><img src="https://i.imgur.com/klovRR8.png" /</p>
 
-
 ##  Features:
 - [x] Add Prefix/Suffix into Line
 - [X] Find and Replace Text
@@ -18,3 +17,8 @@ A little tool for handling huge text files. Basically writing a clone of textmec
 - [ ] Join/Merge Text
 - [ ] Remove Letter Accents
 - [ ] Remove Lines Containing Keyword(s)
+
+
+That's still highly unstable, so take your risks if you want to use that.
+
+Contact me on Telegram at @eigoog
