@@ -1,4 +1,5 @@
-# pytextmechanic
+# pytextmechanic 
+<img src="https://img.shields.io/badge/coverage-30%25-orange.svg" />
 A little tool for handling huge text files. Basically writing a clone of textmechanic.com in python. Still WIP.
 
 <p align="center"><img src="https://i.imgur.com/klovRR8.png" /</p>
